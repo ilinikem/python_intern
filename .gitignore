@@ -2,6 +2,7 @@ __pycache__/
 .idea/
 .pytest_cache
 
+.gitignore
 # Environments
 .env
 .venv
